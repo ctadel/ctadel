@@ -17,7 +17,6 @@ Technologies I've been learning and using so far :
     [![Python](https://camo.githubusercontent.com/548de94cc1244f02fb64cb35946845267ee0d358fa5b1c7bdf6275c8cae77c7a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d6565653f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f7223463742443246)]
     [![C++](http://img.shields.io/badge/-C++-eee?style=flat-square&logo=php&logoColor=4951aa)]
     [![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=php&logoColor=4951aa)]
-    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)]
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]
     <!-- [![R Lang](https://img.shields.io/badge/-R%20Lang-eee?style=flat-square&logo=r&logoColor=276dc3)] -->
     <!-- [![Ruby](http://img.shields.io/badge/-Ruby-eee?style=flat-square&logo=ruby&logoColor=CC342D)] -->
@@ -35,6 +34,7 @@ Technologies I've been learning and using so far :
     <!-- [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7) -->
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)]
     [![JSP](http://img.shields.io/badge/-JSP-eee?style=flat-square&logo=mysql&logoColor=4479A1)]
+    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)]
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)]
     <!-- [![Flask](http://img.shields.io/badge/-Flask-eee?style=flat-square&logo=flask&logoColor=000)] -->
     [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]
