@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwaldev/)](www.linkedin.com/in/prajwaldev)
 [![My Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fprajwaldev.com.np/)](http://prajwaldev.com.np)
 
-I'm a Nepali guy who has a curious mind. I'd like to learn something new every day. I'm a **Computer Science Engineer** and currently looking for a job.
+I'm a s1mple guy who has a curious mind. I'd like to learn something new every day. I'm a **Computer Science Engineer** and currently looking for a job.
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
 - 🔥 Have been developing apps and designing webpages for more than  years.
