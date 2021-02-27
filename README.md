@@ -1,14 +1,14 @@
 ### Hi, I'm Prajwal - Computer Science Engineer 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwaldev/)](www.linkedin.com/in/prajwaldev)
-[![My Website](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=http://prajwaldev.com.np/)](http://prajwaldev.com.np)
+[![My Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fprajwaldev.com.np/)](http://prajwaldev.com.np)
 
 I'm a Nepali guy who has a curious mind. I'd like to learn something new every day. I'm a **Computer Science Engineer** and currently looking for a job.
 
 - 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
 - 🔥 Have been developing apps and designing webpages for more than  years.
 - 📚 Learned mostly from Youtube and Udemy lessons.
-- 😍 My hobbies are travelling, music and [gaming](settings.gg/c0mpl1cat3d).
+- 😍 My hobbies are travelling, music and [gaming](http://settings.gg/c0mpl1cat3d).
 - 💌 Contact me at [nep.prajwal@gmail.com](mailto:nep.prajwal@gmail.com).
 
 Technologies I've been learning and using so far :
