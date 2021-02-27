@@ -41,6 +41,7 @@ Technologies I've been learning and using so far :
     [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]
 - OS & IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]
+    [![Eclipse](http://img.shields.io/badge/-Eclipse-eee?style=flat-square&logo=eclipse&logoColor=E34F26)]
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]
     [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)]
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]
