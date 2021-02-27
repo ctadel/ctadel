@@ -14,7 +14,7 @@ I'm a Nepali guy who has a curious mind. I'd like to learn something new every d
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
-    [![Python](https://img.shields.io/pypi/pyversions/Django)]
+    [![Python](https://camo.githubusercontent.com/548de94cc1244f02fb64cb35946845267ee0d358fa5b1c7bdf6275c8cae77c7a/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d6565653f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f7223463742443246)]
     [![C++](http://img.shields.io/badge/-C++-eee?style=flat-square&logo=php&logoColor=4951aa)]
     [![Java](http://img.shields.io/badge/-Java-eee?style=flat-square&logo=php&logoColor=4951aa)]
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)]
