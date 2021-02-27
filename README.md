@@ -40,8 +40,8 @@ Technologies I've been learning and using so far :
     <!-- [![Flask](http://img.shields.io/badge/-Flask-eee?style=flat-square&logo=flask&logoColor=000)] -->
     [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]
 - OS & IDE & Tools : <br />
-    [![Windows](http://img.shields.io/badge/-Windows-eee?style=flat-square&logo=windows&logoColor=E34F26)]
-    [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)]
+    [![Windows](http://img.shields.io/badge/-Windows-eee?style=flat-square&logo=windows&logoColor=blue)]
+    [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=orange)]
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]
     [![Eclipse](http://img.shields.io/badge/-Eclipse-eee?style=flat-square&logo=eclipse&logoColor=E34F26)]
     [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)]
