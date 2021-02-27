@@ -1,5 +1,5 @@
 ### Hi, I'm Prajwal - Computer Science Engineer 👋
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwaldev/)](https://www.linkedin.com/in/prajwaldev/)
 [!LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/prajwaldev)]
 [![My Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fprajwaldev.com.np/)](http://prajwaldev.com.np)
 
