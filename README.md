@@ -1,7 +1,7 @@
 ### Hi, I'm Prajwal - Computer Science Engineer 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwaldev/)](https://www.linkedin.com/in/prajwaldev/)
-[!LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/prajwaldev)]
 [![My Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=http%3A%2F%2Fprajwaldev.com.np/)](http://prajwaldev.com.np)
+[![Steam](https://img.shields.io/badge/-Steam-darkblue?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/c0mpl1cat3d/)](https://steamcommunity.com/id/c0mpl1cat3d/)
 
 I'm a s1mple guy who has a curious mind. I'd like to learn something new every day. I'm a **Computer Science Engineer** and currently looking for a job.
 
